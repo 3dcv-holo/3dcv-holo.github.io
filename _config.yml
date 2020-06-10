@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "Realistic 3D Vision"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "무코포"
+name                     : "MCP"
 description              : "고양이와 함께하는 개발자"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
