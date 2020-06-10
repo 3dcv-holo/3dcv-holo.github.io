@@ -16,6 +16,7 @@ Github Blog Template Page
 2. 여름
 3. 가을
 4. 겨울 
+
 * 과자
 	* 라면
 		* 사탕
