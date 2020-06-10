@@ -38,8 +38,6 @@ print s
 
 <https://google.com>
 
-![](https://devinlife.com/assets/images/bio-photo-keyboard-small.jpg)
-
 ![](https://devinlife.com/assets/images/bio-photo-keyboard-small.jpg){: .align-center}
 
 | 항목 | 가격 | 개수 |
