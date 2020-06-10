@@ -21,9 +21,9 @@ Github Blog Template Page
 	* 라면
 		* 사탕
 
-'''
+```
 function test() {
   console.log("notice the black line before this function?");
 }
-'''
+```
 
